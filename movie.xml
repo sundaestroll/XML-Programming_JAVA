@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML document describes a movie archive -->
+<archive>
+	<movie id="1">
+		<title>The Handmaiden</title>
+		<format>Movie</format>
+		<genre>Romance &amp; Thriller</genre>
+	</movie>
+	<movie id="2">
+		<title>The Imitation Game</title>
+		<format>Movie</format>
+		<genre>History</genre>
+	</movie>
+</archive>

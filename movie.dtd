@@ -1,0 +1,8 @@
+<!DOCTYPE archive [
+  <!ELEMENT archive (movie+)>
+  <!ELEMENT movie (title, format, genre)>
+  <!ATTLIST movie id CDATA #REQUIRED>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT format (#PCDATA)>
+  <!ELEMENT genre (#PCDATA)>
+]>
